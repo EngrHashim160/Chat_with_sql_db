@@ -1,0 +1,24 @@
+# Core Web Framework
+streamlit
+
+# LangChain Core (for SQL agents and database integration)
+langchain
+langchain-core
+
+# Groq Integration (for LLM)
+langchain-groq
+
+# Database Connectivity
+sqlalchemy
+mysql-connector-python
+
+# Environment Variable Management (optional)
+python-dotenv
+
+# Note: The following are built into Python and don't need installation:
+# sqlite3, pathlib
+
+# Optional: For enhanced database support (uncomment if needed)
+# psycopg2-binary  # For PostgreSQL support
+# pymongo          # For MongoDB support
+# cx_Oracle        # For Oracle database support
